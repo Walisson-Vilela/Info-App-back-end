@@ -1,11 +1,137 @@
 [
   {
     "id": 1,
-    "brand": "teste",
-    "model": "teste",
-    "plate": "abc1525",
-    "chassi": "teste",
-    "reindeer": "resarwe",
-    "year": "2019"
+    "brand": "Toyota",
+    "model": "Corolla",
+    "plate": "ABC-1234",
+    "chassi": "JTDBE32K123456789",
+    "reindeer": "123456789",
+    "year": 2020
+  },
+  {
+    "id": 2,
+    "brand": "Honda",
+    "model": "Civic",
+    "plate": "XYZ-5678",
+    "chassi": "2HGES165X12345678",
+    "reindeer": "987654321",
+    "year": 2021
+  },
+  {
+    "id": 3,
+    "brand": "Ford",
+    "model": "Fiesta",
+    "plate": "LMN-9101",
+    "chassi": "3FADP4BJ4EM123456",
+    "reindeer": "112233445",
+    "year": 2019
+  },
+  {
+    "id": 4,
+    "brand": "Chevrolet",
+    "model": "Onix",
+    "plate": "OPQ-2345",
+    "chassi": "9BWGG61JXH4000002",
+    "reindeer": "998877665",
+    "year": 2018
+  },
+  {
+    "id": 5,
+    "brand": "Volkswagen",
+    "model": "Gol",
+    "plate": "XYZ-8765",
+    "chassi": "3VWDB7AJ9EM123456",
+    "reindeer": "223344556",
+    "year": 2017
+  },
+  {
+    "id": 6,
+    "brand": "Nissan",
+    "model": "March",
+    "plate": "JKL-9876",
+    "chassi": "3N1CK3CP7GL123456",
+    "reindeer": "445566778",
+    "year": 2020
+  },
+  {
+    "id": 7,
+    "brand": "Fiat",
+    "model": "Uno",
+    "plate": "ABC-4321",
+    "chassi": "9BD199301PL123456",
+    "reindeer": "667788990",
+    "year": 2016
+  },
+  {
+    "id": 8,
+    "brand": "Renault",
+    "model": "Kwid",
+    "plate": "DEF-8765",
+    "chassi": "1D4RN8HD3LM123456",
+    "reindeer": "998877665",
+    "year": 2022
+  },
+  {
+    "id": 9,
+    "brand": "Peugeot",
+    "model": "208",
+    "plate": "MNO-5432",
+    "chassi": "1PMAJNDB1GU123456",
+    "reindeer": "332211445",
+    "year": 2019
+  },
+  {
+    "id": 10,
+    "brand": "Hyundai",
+    "model": "HB20",
+    "plate": "TUV-3210",
+    "chassi": "KMHD351ELKU123456",
+    "reindeer": "223344556",
+    "year": 2021
+  },
+  {
+    "id": 11,
+    "brand": "Jeep",
+    "model": "Compass",
+    "plate": "QRS-6543",
+    "chassi": "1C4NJDEB2GD123456",
+    "reindeer": "998877665",
+    "year": 2020
+  },
+  {
+    "id": 12,
+    "brand": "BMW",
+    "model": "X1",
+    "plate": "PQR-1098",
+    "chassi": "WBAVF11060KY123456",
+    "reindeer": "776655443",
+    "year": 2021
+  },
+  {
+    "id": 13,
+    "brand": "Mercedes-Benz",
+    "model": "A-Class",
+    "plate": "ABC-5678",
+    "chassi": "WDD1770072F123456",
+    "reindeer": "443322110",
+    "year": 2022
+  },
+  {
+    "id": 14,
+    "brand": "Audi",
+    "model": "A3",
+    "plate": "UVW-3210",
+    "chassi": "WAUZFBFB7FN123456",
+    "reindeer": "554433221",
+    "year": 2019
+  },
+  {
+    "id": 15,
+    "brand": "Kia",
+    "model": "Seltos",
+    "plate": "XYZ-1111",
+    "chassi": "KNAGP4A89K7100001",
+    "reindeer": "667788990",
+    "year": 2021
   }
 ]
