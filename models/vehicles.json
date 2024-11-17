@@ -548,58 +548,5 @@
         }
       }
     }
-  },
-  {
-    "id": 8,
-    "createdAt": "2024-11-17T15:56:27.925Z",
-    "brand": "teste",
-    "model": "teste",
-    "plate": "fff8888",
-    "chassi": "teste",
-    "reindeer": "teste",
-    "year": 2000
-  },
-  {
-    "id": 10,
-    "createdAt": "2024-11-17T16:21:21.685Z",
-    "brand": "teste8",
-    "model": "teste",
-    "plate": "frg5859",
-    "chassi": "teste",
-    "reindeer": "teste",
-    "year": 2000,
-    "isEditing": false,
-    "originalData": {
-      "id": 10,
-      "createdAt": "2024-11-17T16:21:21.685Z",
-      "brand": "teste5",
-      "model": "teste",
-      "plate": "frg5859",
-      "chassi": "teste",
-      "reindeer": "teste",
-      "year": 2000,
-      "isEditing": true,
-      "originalData": {
-        "id": 10,
-        "createdAt": "2024-11-17T16:21:21.685Z",
-        "brand": "teste3",
-        "model": "teste",
-        "plate": "frg5859",
-        "chassi": "teste",
-        "reindeer": "teste",
-        "year": 2000,
-        "isEditing": true
-      }
-    }
-  },
-  {
-    "id": 11,
-    "createdAt": "2024-11-17T16:50:47.524Z",
-    "brand": "teste7",
-    "model": "teste",
-    "plate": "tes8569",
-    "chassi": "teste",
-    "reindeer": "teste",
-    "year": 2000
   }
 ]
